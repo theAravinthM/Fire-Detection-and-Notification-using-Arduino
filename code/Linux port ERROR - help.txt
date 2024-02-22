@@ -1,0 +1,5 @@
+If using Ubuntu Linux, and if getting an error of NOT opening a port OR any port is used, TRY RUNNING THE BELOW COMMAND.
+
+For running & displaying result in Arduino serial monitor, execute in terminal:
+
+sudo chmod a+rw /dev/ttyACM0
